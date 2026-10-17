@@ -78,6 +78,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
 - [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
+- [Frink](https://frink.dev) - Fine-tuned automation for everyone: visual workflows where AI coding agents (Claude Code, Codex, OpenCode, GitHub Copilot, Cursor) act on your tickets, errors and schedules, and ask before they change anything.
 - [OpenPaw](https://github.com/daxaur/openpaw) - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
 - [Paw](https://paw.cloud/)
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Create Mac applications from command line scripts.
